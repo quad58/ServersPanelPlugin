@@ -3,6 +3,7 @@
  * @author Quad
  * @description Replaces the usual server list with a comfortable panel that opens when hovering the cursor
  * @version 0.0.1
+ * @source https://github.com/quad58/ServersPanelPlugin
  * @invite AmwzWySsRb
  */
 
